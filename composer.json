@@ -1,12 +1,12 @@
 {
-  "name" : "horseLuke/php-dg24framework_appsolution_sch60",
+  "name" : "horseLuke/php-dg24framework_component_appsolution_sch60",
   "description" : "Simple Control Handler 60 (A Demo App Solution Component For DG24 Framework)",
   "type" : "framework",
   "keywords" : [
     "framework",
     "dg24"
   ],
-  "homepage" : "https://github.com/HorseLuke/php-dg24framework_appsolution_sch60",
+  "homepage" : "https://github.com/HorseLuke/php-dg24framework_component_appsolution_sch60",
   "license" : "Apache-2.0",
   "authors" : [{
       "name" : "horseluke",
